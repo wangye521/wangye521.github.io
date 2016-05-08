@@ -11,7 +11,7 @@
 	padding-bottom: 5%;
    }
 
-div#g-info-box {
+div#g-info-final-box {
 	display: none;
 }
 
@@ -29,7 +29,7 @@ header {
 p {
 	font-family: 'Martel Sans', sans-serif;
 	font-size: 80%;
-	text-align: center;
+	text-align: left;
 	color: grey;
 }
 
